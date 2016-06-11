@@ -2,14 +2,14 @@ return {
 	bot_api_key = '',
 	version = '2.1.1', -- /aupdate for v2.1.1
 	admin = {
-		owner = 23646077,
+		owner = 236833950,
 		admins = {
-			[141956218] = true,
-			[23646077] = true
+			[236833950] = true,
+			[239832443] = true
 		}
 	},
-	log_chat = -1001057801239,
-	channel = '@groupbutler_ch', --channel username with the '@'
+	log_chat = -142621245,
+	channel = '@ddabotleaders', --channel username with the '@'
 	languages = 'languages.lua',
 	plugins = {
 		'onmessage.lua', --THIS HAVE TO BE THE FIRST: IF AN USER IS SPAMMING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
